@@ -1,0 +1,40 @@
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+.pattern {
+    display: flex;
+    flex-direction: column;
+}
+
+.row {
+    display: flex;
+}
+
+.box {
+    width: 50px;
+    height: 50px;
+    border: 2px solid #000;
+    background-color: #f2f2f2;
+}
+
+.unique1 {
+    background-color: #4CAF50;
+}
+
+.unique2 {
+    background-color: #4d3bc2;
+}
+
+.unique3 {
+    background-color: #ffed25;
+}
+
+.unique4 {
+    background-color: #ff075a;
+}
+
+.unique5 {
+    background-color: #4ca3af;
+}
